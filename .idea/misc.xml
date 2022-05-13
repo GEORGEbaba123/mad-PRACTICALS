@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_frame_layout.xml" value="0.136" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_linear_layout.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract10.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract11.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract12.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract13.xml" value="0.1" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract14.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract15.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract16.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract17.xml" value="0.1" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract18.xml" value="0.176" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract19.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract20.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract21.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract7.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract8.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_pract9.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/INT03/AndroidStudioProjects/Practicals/app/src/main/res/layout/pract_14_list_item.xml" value="0.15729166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

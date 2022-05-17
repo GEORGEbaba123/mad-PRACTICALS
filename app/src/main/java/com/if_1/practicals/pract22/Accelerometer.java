@@ -29,7 +29,7 @@ public class Accelerometer {
 
     // create constructor with
     // context as argument
-    Accelerometer(Context context) {
+    public Accelerometer(Context context) {
         // create instance of sensor manager
         sensorManager = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);
 

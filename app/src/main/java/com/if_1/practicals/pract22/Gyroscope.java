@@ -28,7 +28,7 @@ public class Gyroscope {
     private SensorEventListener sensorEventListener;
 
     // create constructor with context as argument
-    Gyroscope(Context context) {
+    public Gyroscope(Context context) {
 
         // create instance of sensor manager
         sensorManager = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);

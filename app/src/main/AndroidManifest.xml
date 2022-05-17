@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.if_1.practicals">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Practicals">
+        <activity
+            android:name=".pract22.Pract22Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract21.Pract21Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract20.Pract20Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract19.Pract19Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract18.Pract18Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract17.Pract17Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract12.Pract12Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract11.Pract11Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract10.Pract10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract9.Pract9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract8.Pract8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract7.Pract7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract15.Pract15Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract16.Pract16Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract6.FrameLayoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pract5.LinearLayoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pract13.Pract13Activity"
+            android:exported="false" />
+        <activity
+            android:name=".pract14.Pract14Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

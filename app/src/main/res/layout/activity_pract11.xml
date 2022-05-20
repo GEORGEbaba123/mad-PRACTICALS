@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".pract11.Pract11Activity">
 
     <TextView
@@ -16,4 +17,33 @@
         android:textColor="@color/black"
         android:textStyle="bold" />
 
-</RelativeLayout>
+    <CheckBox
+        android:id="@+id/chk_burger_pract11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Burger"
+        android:layout_marginTop="100dp"/>
+
+    <CheckBox
+        android:id="@+id/chk_pizza_pract11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pizza"
+        android:layout_marginVertical="10dp"/>
+
+    <CheckBox
+        android:id="@+id/chk_coffee_pract11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Coffee"
+        android:layout_marginVertical="10dp"/>
+
+    <Button
+        android:id="@+id/btn_submit_pract11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_marginHorizontal="40dp" />
+
+
+</LinearLayout>

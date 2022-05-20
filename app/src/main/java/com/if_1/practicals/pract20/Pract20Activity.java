@@ -53,6 +53,7 @@ public class Pract20Activity extends AppCompatActivity {
                     }
                     bluetoothAdapter.disable();
 
+
                 }
 
             }

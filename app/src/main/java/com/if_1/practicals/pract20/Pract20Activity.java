@@ -24,6 +24,7 @@ public class Pract20Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_pract20);
 
         aSwitchBluetooth = findViewById(R.id.switch_pract11);
